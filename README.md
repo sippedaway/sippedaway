@@ -4,6 +4,7 @@ hii! I'm a free-time developer, I usually work with frontend websites but someti
 # projects
 - **[sipped.org](https://sipped.org)**: an interactive, unique and fun portfolio website! solo project made in a week with pure html/css/js
 - **[Audomark](https://audomark.sipped.org)**: add your favorite artists & albums, manage them, add ratings and share with others. solo project made in a month with pure html/css/js, express & nodejs
+- **[Message in a Bottle (Work in progress!)](https://github.com/sippedaway/message-in-a-bottle)**: leave a message for yourself that you can only open in a year. work in progress. html/css/js, express & nodejs
 
 
 # 💻 skills/experience

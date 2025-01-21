@@ -26,5 +26,5 @@ hii! I'm a free-time developer, I usually work with frontend websites but someti
 ![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=for-the-badge&logo=sidequest&logoColor=white) 
 
 # contact me
-- **[discord](https://discord.com/users/1270801870163546194)**: @sippedaway
-- **[email](mailto:hello@sipped.org)**: hello@sipped.org
+- **discord**: [@sippedaway](https://discord.com/users/1270801870163546194)
+- **email**: hello@sipped.org

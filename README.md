@@ -28,3 +28,6 @@ hii! I'm a free-time developer, I usually work with frontend websites but someti
 # contact me
 - **discord**: [@sippedaway](https://discord.com/users/1270801870163546194)
 - **email**: hello@sipped.org
+#### social links
+- **discord**: https://sipped.org/discord
+- **github**: https://sipped.org/github

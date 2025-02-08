@@ -4,8 +4,7 @@ hii! I'm a free-time developer, I usually work with website design & development
 
 # 📂 projects
 - **[sipped.org](https://sipped.org)**: an interactive, unique and fun portfolio website! solo project made in a week with pure html/css/js [repository](https://github.com/sippedaway/sipped.org)
-- **[Audomark](https://audomark.sipped.org)**: add your favorite artists & albums, manage them, add ratings and share with others. solo project made in a month with pure html/css/js, express & nodejs. [repository](https://github.com/sippedaway/Audomark)
-- **[Message in a Bottle](https://message.sipped.org)**: leave a message for yourself that you can only open in a year. work in progress. html/css/js, express & nodejs. [repository](https://github.com/sippedaway/Message-in-a-Bottle)
+- **where are my other projects?** - due to hosting service outages and other problems, i am switching services and revamping my other projects to use entirely different authentication methods. that's why, at this time the websites are **unavailable** and coming back only in the coming weeks/month. thanks for understanding :)
 
 
 # 💻 skills

@@ -34,3 +34,6 @@ hii! I'm a free-time developer, I usually work with website design & development
 - **discord**: https://discord.com/users/1270801870163546194
 - **github**: https://github.com/sippedaway
 - **bluesky**: https://bsky.app/profile/sipped.org
+
+# ✉️ legal & business
+contact me at business@sipped.org for legal or business inquiries. if you've got project ideas, feedback or questions - contact me at my normal email hello@sipped.org

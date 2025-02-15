@@ -1,6 +1,7 @@
 # 👋 welcome!
 hii! I'm a free-time developer, I usually work with website design & development but sometimes lean into video game and API projects.<br><br>minor.<br>not a freelance developer.
 #### hello@sipped.org
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K31AMKAQ)
 
 # 📂 projects
 - **[sipped.org](https://sipped.org)**: an interactive, unique and fun portfolio website! solo project made in a week with pure html/css/js - [repository](https://github.com/sippedaway/sipped.org)
@@ -31,6 +32,7 @@ hii! I'm a free-time developer, I usually work with website design & development
 - available 7 to 12 every day
 
 # 💬 social links
+- **ko-fi** (donate and become a supporter): https://ko-fi.com/sipped
 - **discord**: https://discord.com/users/1270801870163546194
 - **github**: https://github.com/sippedaway
 - **bluesky**: https://bsky.app/profile/sipped.org

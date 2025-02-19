@@ -6,6 +6,7 @@ hii! I'm a free-time developer, I usually work with website design & development
 # 📂 projects
 - **[sipped.org](https://sipped.org)**: an interactive, unique and fun portfolio website! solo project made in a week with pure html/css/js - [repository](https://github.com/sippedaway/sipped.org)
 - **[SpotDB](https://db.sipped.org)**: a platform for searching and gathering detailed information for spotify albums, songs, users, and MORE. pretty much get all data you want for anything on spotify. open-source, no ads, free - [repository](https://github.com/sippedaway/SpotDB) - [faq](https://db.sipped.org/faq)
+- **[Showray](https://showray.sipped.org)**: create music release pages for free. better than alternatives, completely free and no attribution required - [repository](https://https://github.com/sippedaway/Showray)
 - **where are my other projects?** - due to hosting service outages and other problems, i am switching services and revamping my other projects to use entirely different authentication methods. that's why, at this time the websites are **unavailable** and coming back only in the coming weeks/month. thanks for understanding :)
 
 

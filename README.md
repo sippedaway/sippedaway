@@ -5,9 +5,9 @@ hii! I'm a free-time developer, I usually work with website design & development
 
 # 📂 projects
 - **[sipped.org](https://sipped.org)**: an interactive, unique and fun portfolio website! solo project made in a week with pure html/css/js - [repository](https://github.com/sippedaway/sipped.org)
-- **[SpotDB](https://db.sipped.org)**: a platform for searching and gathering detailed information for spotify albums, songs, users, and MORE. pretty much get all data you want for anything on spotify. open-source, no ads, free - [repository](https://github.com/sippedaway/SpotDB) - [faq](https://db.sipped.org/faq)
+- **[personal blog](https://blog.sipped.org)**: read my personal blog where I talk about dev stuff, post reviews, sneak peeks, early access.. and more! - [repository](https://github.com/sippedaway/blog) - [introduction post](https://blog.sipped.org)
+- **[SpotDB](https://db.sipped.org)**: a platform for searching and gathering detailed information for spotify albums, songs, users, and MORE. pretty much all data you want for anything on spotify. - [repository](https://github.com/sippedaway/SpotDB) - [faq](https://db.sipped.org/faq)
 - **[Showray](https://showray.sipped.org)**: create music release pages for free. better than alternatives, completely free and no attribution required - [repository](https://https://github.com/sippedaway/Showray)
-- **where are my other projects?** - due to hosting service outages and other problems, i am switching services and revamping my other projects to use entirely different authentication methods. that's why, at this time the websites are **unavailable** and coming back only in the coming weeks/month. thanks for understanding :)
 
 
 # 💻 skills
@@ -25,18 +25,30 @@ hii! I'm a free-time developer, I usually work with website design & development
 
 ![Photopea](https://img.shields.io/badge/Photopea-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 
-# ❔ other
-- can talk in four languages
-- professional video & photo editing
-- ability to design and realize website ideas
-- creative and expressive projects
-- available 7 to 12 every day
+# 👐 get to know me
+## 😼 me
+- eastern european
+- uses windows 11 + arch linux
+- phone: iphone 15 + apple watch series 3
+- a lot of unpopular opinions
+## 🤟 interests
+- passion for development & computers
+- somewhat wide variety of music genres I like!
+- writing
+## 🍿 pop culture
+- favorite songwriter: phoebe bridgers
+- favorite rapper: kendrick lamar
+- favorite album: folklore / mr morale &tbsp
+- favorite tv show: better call saul / arcane
+- unsure about favorite artist and favorite movie
+## ❔ fun facts
+- can talk in four languages since 10
+- wrote an 100 page fiction book at 12
+- available pretty much all day
 
 # 💬 social links
 - **ko-fi** (donate and become a supporter): https://ko-fi.com/sipped
 - **discord**: https://discord.com/users/1270801870163546194
-- **github**: https://github.com/sippedaway
-- **bluesky**: https://bsky.app/profile/sipped.org
 
 # ✉️ legal & business
 contact me at business@sipped.org for legal or business inquiries. if you've got project ideas, feedback or questions - contact me at my normal email hello@sipped.org

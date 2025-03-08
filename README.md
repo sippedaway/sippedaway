@@ -5,8 +5,9 @@ hii! I'm a free-time developer, I usually work with website design & development
 
 # 📂 projects
 - **[sipped.org](https://sipped.org)**: an interactive, unique and fun portfolio website! solo project made in a week with pure html/css/js - [repository](https://github.com/sippedaway/sipped.org)
-- **[personal blog](https://blog.sipped.org)**: read my personal blog where I talk about dev stuff, post reviews, sneak peeks, early access.. and more! - [repository](https://github.com/sippedaway/blog) - [introduction post](https://blog.sipped.org)
+- **[personal blog](https://blog.sipped.org)**: read my personal blog where I talk about dev stuff, post reviews, sneak peeks, early access.. and more! - [repository](https://github.com/sippedaway/blog) - [read more](https://blog.sipped.org/7sN1LzqsoVpeleLHNcXxH2)
 - **[SpotDB](https://db.sipped.org)**: a platform for searching and gathering detailed information for spotify albums, songs, users, and MORE. pretty much all data you want for anything on spotify. - [repository](https://github.com/sippedaway/SpotDB) - [faq](https://db.sipped.org/faq)
+- **[DAW-Online](https://db.sipped.org)**: an online DAW/website to make music inspired by FL Studio and made with pure html/css/js - [repository](https://github.com/sippedaway/DAW-online) - [read more](https://blog.sipped.org/2dnxAg6x37IDqhylSYhipT)
 - **[Showray](https://showray.sipped.org)**: create music release pages for free. better than alternatives, completely free and no attribution required - [repository](https://https://github.com/sippedaway/Showray)
 
 
@@ -38,7 +39,7 @@ hii! I'm a free-time developer, I usually work with website design & development
 ## 🍿 pop culture
 - favorite songwriter: phoebe bridgers
 - favorite rapper: kendrick lamar
-- favorite album: folklore / mr morale &tbsp
+- favorite album: folklore / mr morale &tbsp / hit me hard and soft
 - favorite tv show: better call saul / arcane
 - unsure about favorite artist and favorite movie
 ## ❔ fun facts

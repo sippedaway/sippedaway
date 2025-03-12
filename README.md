@@ -1,11 +1,11 @@
 # 👋 hey, I'm [sipped.](https://sipped.org)
-I am a free-time developer and I mostly create websites or API projects.
+I am a free-time web developer with a passion of bringing unique website ideas to life.
+> 👐 Wanna work together? Got a question? [**Email**](#contact) me!
 
-· **Repositories**....................{{REPOS}}  
-· **Commits**...........................{{COMMITS}}  
-· **Total lines of code**...............{{TOTAL_LINES}}  
+### skills
+<a href="#"><img alt="" width="350px" src="https://raw.githubusercontent.com/sippedaway/sippedaway/refs/heads/updated/assets/icons.png"></a>
 
-1. Paragraph of introduction
-2. Skills, code, OS..
-3. Projects
-4. GitHub stats (w/GitHub actions)
+### info
+· OS. . . . . . . . . . . . Windows 11, Arch Linux, iOS 18
+
+· Devices . . . . . . .PC, Meta Quest 3, Switch, iPhone 15
